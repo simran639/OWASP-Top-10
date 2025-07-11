@@ -4,7 +4,7 @@ This repository sums up my first step through web application security, the OWAS
 
 Goal: To understand, exploit, and mitigate the most critical web application vulnerabilities in real-world scenarios.
 
-#Course Completed
+# Course Completed
 
 ## LinkedIn Learning
 - OWASP Top 10: #1 Broken Access Control and #2 Cryptographic Failures
