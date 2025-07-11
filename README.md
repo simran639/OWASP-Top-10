@@ -16,7 +16,7 @@ Goal: To understand, exploit, and mitigate the most critical web application vul
 ## TryHackMe Room
 - [OWASP Top 10 - 2021 Room](https://tryhackme.com/room/owasptop102021)
 
-## Skills Learned
+# Skills Learned
 - Application Security
 - Web Application Security
 - Vulnerability Assessment
