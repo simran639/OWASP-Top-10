@@ -1,4 +1,4 @@
-# Sensitive Data Exposure(Cryptographic Failures)
+# Cryptographic Failures
 
 ## What is it?
 - In webapp sensitive data can often be refered to the data direclty linked to the customers (e.g. names, dates-of-birth, financial information, etc), but could also be more technical information, such as usernames and passwords. It can be exposed when data is inadequately protected during storage or transmission.
