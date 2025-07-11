@@ -12,8 +12,8 @@ Attackers can:
 ## What I did in TryHackMe:
 -Used the input field to run system commands via a web-based cowsay endpoint which leaded me to some interesting information such as:
   - whoami -> apache
-  - Retrived a suspicious file name drpepper.txt
-  - Identified OS version
+  - Retrived a suspicious file name drpepper.txt (ls)
+  - Identified OS version (cat /etc/os-release)
 -I did all by using the command injection by appending different shell commands to form input.
 
 ## Mitigation:
