@@ -7,11 +7,20 @@ Goal: To understand, exploit, and mitigate the most critical web application vul
 #Course Completed
 
 ## LinkedIn Learning
-- OWASP Top 10: #1 and #2 – Injection & Broken Authentication
-- OWASP Top 10: #3 and #4 – Sensitive Data Exposure & XML External Entities (XXE)
-- OWASP Top 10: #5 and #6 – Broken Access Control & Security Misconfiguration
-- OWASP Top 10: #7 and #8 – XSS & Insecure Deserialization
-- OWASP Top 10: #9 and #10 – Using Components with Known Vulnerabilities & Insufficient Logging
+- OWASP Top 10: #1 Broken Access Control and #2 Cryptographic Failures
+- OWASP Top 10: #3 Injection and #4 Insecure Design
+- OWASP Top 10: #5 Security Misconfiguration and #6 Vulnerable and Outdated Components
+- OWASP Top 10: #7 Identification and Authentication Failures and #8 Software and Data Integrity Failures
+- OWASP Top 10: #9 Security Logging and Monitoring Failures and #10 Server-Side Request Forgery
 
 ## TryHackMe Room
-- [OWASP Top 10 Room](https://tryhackme.com/room/owasptop10)
+- [OWASP Top 10 - 2021 Room](https://tryhackme.com/room/owasptop102021)
+
+## Skills Learned
+- Application Security
+- Web Application Security
+- Vulnerability Assessment
+- Data Integrity
+- Secure Authentication
+- Identity and Access Management(IAM)
+- OWASP
